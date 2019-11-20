@@ -4,7 +4,7 @@ This repo contains code to experiment using a contextual bandit to trade Bitcoin
 
 # Usage
 
-Execute the notebooks in the [noteboks](notebooks) folder in the sequence named (01, 02, 03, etc) to
+Execute the notebooks in the [notebooks](notebooks) folder in the sequence named (01, 02, 03, etc) to
 install dependencies, build and compare strategies, etc.
 
 # Prerequisites
